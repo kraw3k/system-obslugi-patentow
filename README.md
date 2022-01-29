@@ -27,3 +27,9 @@ Aby zobaczyć działanie systemu proszę otworzyć wspomniane wyżej widoki w os
 3️⃣ https://system-obslugi-patentow.web.app/#/urzednik/1 (liczba w linku oznacza nr stanowsika, możliwe opcje: 1, 2, 3)
 
 
+## Demo
+
+
+
+https://user-images.githubusercontent.com/41866073/151659632-35ba5837-68df-4989-9526-a86a5f76881a.mov
+
